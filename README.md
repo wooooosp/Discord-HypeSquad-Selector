@@ -2,8 +2,6 @@
 
 A simple and fast browser extension / script that allows you to easily change or set your **Discord HypeSquad Badge** directly from Discord Web.
 
-![Extension Icon](icon.png)
-
 ---
 
 ## ✨ Features
