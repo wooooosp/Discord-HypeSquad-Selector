@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Discord HypeSquad Selector",
+  "version": "1.0.0",
+  "description": "Chce seks.",
+  "content_scripts": [
+    {
+      "matches": ["https://discord.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ],
+  "host_permissions": [
+    "https://discord.com/*"
+  ]
+}
